@@ -1,4 +1,4 @@
-#!/bin/bash bash
+#!/bin/bash
 DELAY=1
 configuredClient=""
 currentVersion="1.0"
